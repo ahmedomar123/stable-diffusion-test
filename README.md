@@ -10,3 +10,13 @@ Step per aprire in locale il sito web:
 3. lanciare nel terminale il comando: npm install
 4. terminata l'installazione lanciare comando: npm run dev
 5. aprire nel browser il localhost con la porta indicata nel terminale 
+
+Tecnologie usate per il progetto: 
+- React 18
+- node.js
+- VITE 
+
+Launguage program: 
+- JavaScript (jsx) 
+- HTML
+- SCSS
