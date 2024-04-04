@@ -7,8 +7,9 @@ Prima di poter aprire in locale il sito web:
 - Se non è installata scaricare da: https://nodejs.org/en 
 
 Per aprire in locale il sito web: 
-1. premere sul bottone verde (<>Code) e scaricare la zip 
-2. Aprire terminale all'interno della cartella scaricata (tasto destro sulla cartella e premere la voce nuovo terminale nella cartella)
+1. All'interno della repository premere sul bottone verde (<>Code) e scaricare la zip 
+(https://github.com/ahmedomar123/stable-diffusion-test/tree/main)
+2. Aprire terminale all'interno della cartella scaricata (tasto destro sulla cartella e premere la voce: "nuovo terminale nella cartella")
 3. Lanciare nel terminale il comando: npm install
 4. Terminata l'installazione lanciare comando: npm run dev
 5. Aprire nel browser il localhost con la porta indicata nel terminale 
