@@ -98,9 +98,8 @@ const Home = () => {
             <ul>
               <li>Versatility: Stable Diffusion surpasses traditional methods such as deep neural networks by efficiently handling diverse input conditions simultaneously.</li>
               <li>Manual Adjustment: Users can manually fine-tune colors, brightness, contrast, and other parameters to achieve desired results.</li>
-              <li>High-Quality Samples: The nature of noise removal in SD facilitates the creation of high-quality samples. The model initially constructs a rough image structure and then adds finer details.</li>
+              <li>High-Quality Samples: The nature of noise removal in Stable Diffusion facilitates the creation of high-quality samples. The model initially constructs a rough image structure and then adds finer details.</li>
               <li>Intermediate Noisy Images: These serve as hidden codes and match the size of training images, contributing to the generation of highly accurate samples.</li>
-              <li>Stability in Training: Stable Diffusion models exhibit stability during training, gradually smoothing the data distribution to enhance diversity in generated outputs.</li>
             </ul>
             <p>Challenges:</p>
             <ul>
@@ -122,10 +121,10 @@ const Home = () => {
             Stable Diffusion's ecosystem is renowned for its robust customization options and control over the image generation process, allowing users to create outputs to their specific requirements. Several key aspects contribute to this:
             </p>
             <ul>
-              <li>Parameter Tuning and Configuration: Stable Diffusion provides users with extensive control over various parameters governing the image generation process. Users can adjust parameters such as resolution, sampling methods, noise levels, and temperature to fine-tune the output according to their preferences.</li>
-              <li>Conditional Generation and Guidance: Stable Diffusion supports conditional generation, enabling users to provide input prompts or constraints to guide the image generation process. Users can specify desired attributes, themes, or visual characteristics, ensuring that generated images align closely with their intentions.</li>
-              <li>Style Transfer and Manipulation: The ecosystem offers tools for style transfer and manipulation, allowing users to apply different artistic styles or attributes to generated images. Users can mix and match styles, interpolate between different visual elements, or manipulate specific features within the images.</li>
-              <li>Fine-tuning and Adaptation: Stable Diffusion facilitates model fine-tuning and adaptation, enabling users to customize the underlying neural network models to better suit their specific datasets or use cases. Users can leverage techniques such as transfer learning, domain adaptation, and incremental training to refine model performance and adapt it to evolving requirements.</li>
+              <li><strong>Parameter Tuning and Configuration:</strong> Stable Diffusion provides users with extensive control over various parameters governing the image generation process. Users can adjust parameters such as resolution, sampling methods, noise levels, and temperature to fine-tune the output according to their preferences.</li>
+              <li><strong>Conditional Generation and Guidance:</strong> Stable Diffusion supports conditional generation, enabling users to provide input prompts or constraints to guide the image generation process. Users can specify desired attributes, themes, or visual characteristics, ensuring that generated images align closely with their intentions.</li>
+              <li><strong>Style Transfer and Manipulation:</strong> The ecosystem offers tools for style transfer and manipulation, allowing users to apply different artistic styles or attributes to generated images. Users can mix and match styles, interpolate between different visual elements, or manipulate specific features within the images.</li>
+              <li><strong>Fine-tuning and Adaptation:</strong> Stable Diffusion facilitates model fine-tuning and adaptation, enabling users to customize the underlying neural network models to better suit their specific datasets or use cases. Users can leverage techniques such as transfer learning, domain adaptation, and incremental training to refine model performance and adapt it to evolving requirements.</li>
             </ul>
           </div>
         </section>

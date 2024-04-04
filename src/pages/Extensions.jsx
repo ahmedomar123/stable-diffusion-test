@@ -45,6 +45,9 @@ const Extensions = () => {
             }  
           </header>
           <div className="section-body">
+          <div className="section-body">
+            <p>WebUI Automatic1111 Stable Diffusion is a tool helping with the creation of AI-generated images. It has a user-friendly interface that empowers users to manage and execute their AI models for image generation tasks. Getting started with WebUI Automatic1111 Stable Diffusion is easy, users simply need to download and install the necessary files and dependencies, a process facilitated by easy-to-follow steps. Now you can launch a user-friendly webpage directly within your browser, offering an intuitive interface where many extensions can be found.</p>
+          </div>
             <p>
               Extensions for Automatic1111, often referred to as Automatic1111 WebUI extensions, are additional tools or functionalities designed to enhance and complement the capabilities of the Automatic1111 platform. These extensions boost the image generations of users and provide them with additional features to achieve desired outcomes more efficiently. Many extensions can be found: 
             </p>
@@ -196,7 +199,7 @@ const Extensions = () => {
 
         <section className="content-section">
           <header className="section-header">
-            <h2>Capabilities of Stable Diffusion 3</h2>
+            <h2>Capabilities of Stable Diffusion 3 (SD3)</h2>
             {
               capabilities && (
                 <figure>
@@ -210,9 +213,9 @@ const Extensions = () => {
             In conclusion, Stable Diffusion offers users a multitude of tools and possibilities to refine their prompts, the ultimate question remains: Are we confident in the resulting image's quality and the precision of the prompt's alignment with it? Encord, a data platform for advanced computer vision, highlights the capabilities of SD3 in text-to-image generation:
             </p>
             <ul>
-              <li>Precision in Text Rendering: SD3 excels in accurately rendering text within generated images, ensuring proper representation of fonts, styles, and sizes. This enhancement facilitates seamless integration of text-based descriptions into the imagery, fostering a coherent visual narrative.</li>
-              <li>Enhanced Image Quality: SD3 showcases superior image quality compared to its predecessors. This advancement results in images that are more detailed, realistic, and visually captivating, enhancing the overall user experience.</li>
-              <li>Adherence to Prompts: SD3 demonstrates robust adherence to provided prompts, ensuring that generated images faithfully reflect the details and specifications outlined in the input text. This capability minimizes deviations from the intended concept or scene, enabling the creation of desired visual content with precision.</li>
+              <li><strong>Precision in Text Rendering:</strong> SD3 excels in accurately rendering text within generated images, ensuring proper representation of fonts, styles, and sizes. This enhancement facilitates seamless integration of text-based descriptions into the imagery, fostering a coherent visual narrative.</li>
+              <li><strong>Enhanced Image Quality:</strong> SD3 showcases superior image quality compared to its predecessors. This advancement results in images that are more detailed, realistic, and visually captivating, enhancing the overall user experience.</li>
+              <li><strong>Adherence to Prompts:</strong> SD3 demonstrates robust adherence to provided prompts, ensuring that generated images faithfully reflect the details and specifications outlined in the input text. This capability minimizes deviations from the intended concept or scene, enabling the creation of desired visual content with precision.</li>
             </ul>
             <p>
             Comprehensive evaluations comparing SD3 with various text-to-image generation models, including both open and closed-source solutions such as SDXL, SDXL Turbo, Stable Cascade, Playground v2.5, Pixart-α, DALL·E 3, Midjourney v6, and Ideogram v1, underscore SD3's exceptional performance.

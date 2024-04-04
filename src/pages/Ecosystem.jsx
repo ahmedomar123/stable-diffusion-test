@@ -35,7 +35,7 @@ const Ecosystem = () => {
         <section className="content-section">
           <div className="section-body">
             <p>
-              Stable Diffusion is an open-source solution designed for generating images from text inputs. This innovative tool extends its capabilities through the Stable Diffusion Web UI, offering access to a plethora of features via an API and interactive user interface. In today's era of Artificial Intelligence, managing the computational demands of AI models poses a significant challenge for businesses seeking to integrate them into software and applications. 
+              Stable Diffusion is an open-source solution designed for generating images from text inputs. This innovative tool extends its capabilities through the Stable Diffusion Web UI, offering access to many features via an API and interactive user interface. In today's era of Artificial Intelligence, managing the computational demands of AI models poses a significant challenge for businesses seeking to integrate them into software and applications. 
             </p>
           </div>
         </section>
@@ -63,17 +63,8 @@ const Ecosystem = () => {
             }            
           </header>
           <div className="section-body">
-            <p>Stable Diffusion offers a comprehensive integration experience through its well-structured API documentation, it provides developers with clear guidance on integration procedures, usage instructions, and practical examples. Additionally, the availability of SDKs for popular programming languages such as Python, JavaScript, and Java further enhances integration ease by offering pre-built functions and utilities tailored to these languages. With compatibility across a wide range of programming languages, including Python, JavaScript, Java, C#, and others, Stable Diffusion ensures flexibility and accessibility for developers regardless of their language preferences.The integration of Stable Diffusion's API with popular software development frameworks facilitates the incorporation into existing projects without requiring significant modifications. The active developer community and responsive support channels provided by Stable Diffusion, including forums, documentation updates encourage collaboration and facilitate effective troubleshooting, making the integration process easier for developers. </p>
+            <p>Stable Diffusion offers a comprehensive integration experience through its well-structured API documentation, it provides developers with clear guidance on integration procedures, usage instructions, and practical examples. Additionally, the availability of SDKs for popular programming languages such as Python, JavaScript, and Java further enhances integration ease by offering pre-built functions and utilities tailored to these languages. With compatibility across a wide range of programming languages, Stable Diffusion ensures flexibility and accessibility for developers regardless of their language preferences. The integration of Stable Diffusion's API with popular software development frameworks facilitates the incorporation into existing projects without requiring significant modifications. The active developer community and responsive support channels provided by Stable Diffusion, including forums, documentation updates encourage collaboration and facilitate effective troubleshooting, making the integration process easier for developers. </p>
           </div>          
-        </section>
-
-        <section className="content-section">
-          <header className="section-header">
-            <h2>Automatic1111 & Extensions</h2>
-          </header>
-          <div className="section-body">
-            <p>WebUI Automatic1111 Stable Diffusion is a tool helping with the creation of AI-generated images. It has a user-friendly interface that empowers users to manage and execute their AI models for image generation tasks. Getting started with WebUI Automatic1111 Stable Diffusion is easy, users simply need to download and install the necessary files and dependencies, a process facilitated by easy-to-follow steps. Now you can launch a user-friendly webpage directly within your browser, offering an intuitive interface where many extensions can be found.</p>
-          </div>
         </section>
       </main>
 
