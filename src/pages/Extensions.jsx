@@ -46,7 +46,7 @@ const Extensions = () => {
           </header>
           <div className="section-body">
           <div className="section-body">
-            <p>WebUI Automatic1111 Stable Diffusion is a tool helping with the creation of AI-generated images. It has a user-friendly interface that empowers users to manage and execute their AI models for image generation tasks. Getting started with WebUI Automatic1111 Stable Diffusion is easy, users simply need to download and install the necessary files and dependencies, a process facilitated by easy-to-follow steps. Now you can launch a user-friendly webpage directly within your browser, offering an intuitive interface where many extensions can be found.</p>
+            <p><strong>Automatic1111</strong> is a tool helping with the creation of AI-generated images. It has a user-friendly interface that empowers users to manage and execute their AI models for image generation tasks. Getting started with WebUI Automatic1111 Stable Diffusion is easy, users simply need to download and install the necessary files and dependencies, a process facilitated by easy-to-follow steps.</p>
           </div>
             <p>
               Extensions for Automatic1111, often referred to as Automatic1111 WebUI extensions, are additional tools or functionalities designed to enhance and complement the capabilities of the Automatic1111 platform. These extensions boost the image generations of users and provide them with additional features to achieve desired outcomes more efficiently. Many extensions can be found: 

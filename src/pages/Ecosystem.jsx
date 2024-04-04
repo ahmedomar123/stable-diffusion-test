@@ -66,6 +66,15 @@ const Ecosystem = () => {
             <p>Stable Diffusion offers a comprehensive integration experience through its well-structured API documentation, it provides developers with clear guidance on integration procedures, usage instructions, and practical examples. Additionally, the availability of SDKs for popular programming languages such as Python, JavaScript, and Java further enhances integration ease by offering pre-built functions and utilities tailored to these languages. With compatibility across a wide range of programming languages, Stable Diffusion ensures flexibility and accessibility for developers regardless of their language preferences. The integration of Stable Diffusion's API with popular software development frameworks facilitates the incorporation into existing projects without requiring significant modifications. The active developer community and responsive support channels provided by Stable Diffusion, including forums, documentation updates encourage collaboration and facilitate effective troubleshooting, making the integration process easier for developers. </p>
           </div>          
         </section>
+        <section className="content-section">
+          <header className="section-header">
+            <h2>Integration Between Stable Diffusion and Unity or Unreal Engine</h2>
+          </header>
+          <div className="section-body">
+            <p>
+            Game developers now have access to a vast library of AI-generated images directly within their development environment, enabling an import of visuals as textures, backgrounds, characters, and environmental elements. This collaboration allows asset creation, expediting the design process and offering developers a diverse palette of high-quality visuals to craft captivating gaming experiences.</p>
+            </div>          
+        </section>
       </main>
 
       <Footer/>
